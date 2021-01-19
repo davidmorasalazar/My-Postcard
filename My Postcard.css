@@ -1,0 +1,9 @@
+.left-part{float: left; width: 50%;}
+.right-part{float: right; width: 50%;}
+.titulo{
+    width: 700px; float: right
+}
+.down-part{float: inline-end; width: 50%;}
+.imagen{height: 50px; float: right;
+width: 50px; padding: 10px; color: white;
+overflow: hidden}
